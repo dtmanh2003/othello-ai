@@ -1,0 +1,10 @@
+# PyInstaller output (upload Othello.exe to GitHub Releases instead)
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Scratch files
+test_font.pdf
